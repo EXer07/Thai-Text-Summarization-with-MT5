@@ -1,0 +1,11 @@
+datasets
+huggingface_hub
+evaluate
+rouge_score
+torch
+bitsandbytes
+transformers
+pandas
+torchvision
+torchaudio
+peft
